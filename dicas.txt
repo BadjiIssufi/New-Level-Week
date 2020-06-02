@@ -1,0 +1,12 @@
+Projto de Ecolote, é um projeto que serve para coleta de residuos.
+-Porque criar API com Nodejs=> 
+  #Porque RESTFul =>Poque a o serve que vamos construir co REST vai seguir 
+    algumas regra/padronização por isso que é chamado RESPFul.
+
+  -TypeScript=> é o javaScript adcionado as outras funçoes e  
+  permite vc typiar codigo e facilita a vida de desenvolvidor e 
+  mostra formato de obejetos.
+  -TypeScript Diminui a produtividade=>Sim
+  -TypeScript é tranformar javaScript em Java ou C# =>Não 
+  -TypeScript
+
